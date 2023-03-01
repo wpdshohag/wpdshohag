@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wpdshohag
-- 👀 I’m interested in WordPress
+- 👀 I’m interested in WordPress and graphic design
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Buyer's
 - 📫  Feel free to reach out to me, so we can start planning your next project!
