@@ -7,11 +7,11 @@ I am a passionate full stack web developer and programmer. With expertise in Pyt
 I am the founder and owner of geniushubit.com, a dynamic development agency focused on delivering exceptional web solutions. Our team of skilled professionals strives to create innovative websites, web applications, and software tailored to meet clients' specific needs.
 
 <b>Get in Touch</b>
-<li>
-Personal Website: geniushubit.com
-LinkedIn: linkedin.com/in/wpdshohag
-Email: wpdshohag@gmail.com
-</li>
-Feel free to reach out if you have any inquiries, collaboration opportunities, or if you'd like to discuss a project. I'm always eager to connect with fellow developers and contribute to the tech community.
+<li> Personal Website: geniushubit.com </li>
+<li> LinkedIn: linkedin.com/in/wpdshohag </li>
+<li> Email: wpdshohag@gmail.com </li>
+
+Feel free to reach out if you have any inquiries, collaboration opportunities, or if you'd like to discuss a project. 
+I'm always eager to connect with fellow developers and contribute to the tech community.
 
 Let's build amazing things together!
