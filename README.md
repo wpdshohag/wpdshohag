@@ -10,7 +10,7 @@ I am the founder and owner of geniushubit.com, a dynamic development agency focu
 <li> Personal Website: geniushubit.com </li>
 <li> LinkedIn: linkedin.com/in/wpdshohag </li>
 <li> Email: wpdshohag@gmail.com </li>
-
+<br>
 Feel free to reach out if you have any inquiries, collaboration opportunities, or if you'd like to discuss a project. 
 I'm always eager to connect with fellow developers and contribute to the tech community.
 
